@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Edgar</h1>
-<h3 align="left">A passionate backend developer from Brazil🇧🇷</h3>
+<h3 align="left">A passionate backend developer from Brazil🇧🇷</h3><br>
 
 - 🔭 I’m currently working on [Carolline Bot](https://github.com/blackdot404/carollinebot)
 
