@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Carolline Bot](https://github.com/blackdot404/carollinebot) and [Orderful Tracking](https://github.com/blackdot404/orderful)
 
-- 🌱 I’m currently learning **Python, Go, Flutter**
+- 🌱 I’m currently learning **Python, Java, Kotlin**
 
 - 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
 
